@@ -1,0 +1,10 @@
+Rencana Belajar
+
+PHP
+-Laravel 
+-Symfony
+
+Javascript
+-React
+-React Native
+-Vue.js
