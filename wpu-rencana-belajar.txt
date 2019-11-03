@@ -9,6 +9,7 @@ Javascript
 -React Native
 -Vue.js
 -ES6
+-Angular
 
 Fundamental
 -Data Structure
