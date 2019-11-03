@@ -8,3 +8,6 @@ Javascript
 -React
 -React Native
 -Vue.js
+
+Ruby
+Using Gem package manager
