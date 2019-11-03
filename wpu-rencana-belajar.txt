@@ -8,9 +8,12 @@ Javascript
 -React
 -React Native
 -Vue.js
+-ES6
 
 Fundamental
 -Data Structure
 
 Ruby
 Using Gem package manager
+
+Python
