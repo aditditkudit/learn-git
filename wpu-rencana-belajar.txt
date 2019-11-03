@@ -8,6 +8,7 @@ Javascript
 -React
 -React Native
 -Vue.js
+-ES6
 -Angular
 
 Fundamental
@@ -15,3 +16,5 @@ Fundamental
 
 Ruby
 Using Gem package manager
+
+Python
